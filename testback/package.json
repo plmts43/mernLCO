@@ -1,0 +1,16 @@
+{
+  "name": "testback",
+  "version": "1.0.0",
+  "description": "my MERN test 2048-4096 project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "ashutosh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
